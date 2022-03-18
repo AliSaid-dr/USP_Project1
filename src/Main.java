@@ -5,5 +5,7 @@ public class Main {
         
         System.out.println("This is fixed text");
         System.out.println("Seyhan's first commit.");
+
+        System.out.println("Ali's last commit.");
     }
 }
