@@ -5,6 +5,5 @@ public class Main {
         
         System.out.println("This is fixed text");
 
-        System.out.println("Last commit to the repository");
     }
 }
